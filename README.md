@@ -1,3 +1,3 @@
 # coulr
 
-my colorscheme for vim (made with estilo)
+my colorscheme for vim/neovim (made with estilo)
