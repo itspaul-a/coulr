@@ -1,0 +1,10 @@
+name: 'init'
+version: 'help'
+license: 'MIT'
+author: ''
+url: ''
+description: ''
+colorschemes:
+  - name: init
+    background: 'dark'
+    palette: init
